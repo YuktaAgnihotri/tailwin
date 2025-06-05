@@ -1,1 +1,2 @@
-this is a basic project in tailwindcss 
+this is a basic project in tailwindcss..
+
